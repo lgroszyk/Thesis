@@ -1,0 +1,401 @@
+AuthorPopularity,Condition,Category,Language,IsEbook,WritingTime,PrintingTime,TransactionPrice
+Znany,Dobry,Dziecięce,Angielski,False,Od 10 do 50 lat,Od 5 do 10 lat,11
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Od 500 lat,Do 1 roku,13
+Znany,Brak (Ebook),Inna,Polski,True,Do 10 lat,Od 1 do 5 lat,15
+Znany,Brak (Ebook),Inna,Polski,True,Od 100 do 500 lat,Do 1 roku,13
+Znany,Dobry,Powieść,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,14
+Znany,Brak (Ebook),Inna,Polski,True,Do 10 lat,Od 5 do 10 lat,13
+Znany,Brak (Ebook),Inna,Polski,True,Do 10 lat,Od 5 do 10 lat,14
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Od 10 do 50 lat,Do 1 roku,19
+Nieznany,Brak (Ebook),Dziecięce,Polski,True,Od 500 lat,Do 1 roku,10
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,17
+Znany,Zły,Poezja,Inny,False,Od 100 do 500 lat,Od 1 do 5 lat,3
+Znany i bardzo popularny,Dobry,Kobiece,Polski,False,Od 50 do 100 lat,Od 5 do 10 lat,15
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,16
+Znany,Dobry,Inna,Polski,False,Od 500 lat,Do 1 roku,13
+Nieznany,Brak (Ebook),Sztuka,Polski,True,Od 10 do 50 lat,Od 1 do 5 lat,10
+Nieznany,Dobry,Inna,Polski,False,Do 10 lat,Do 1 roku,14
+Znany i bardzo popularny,Dobry,Biografia,Polski,False,Od 100 do 500 lat,Od 100 lat,22
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,16
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Od 10 do 50 lat,Do 1 roku,19
+Znany,Dobry,Historia,Polski,False,Od 100 do 500 lat,Od 10 do 20 lat,9
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,14
+Nieznany,Dobry,Powieść,Angielski,False,Od 500 lat,Od 1 do 5 lat,8
+Znany i bardzo popularny,Dobry,Dziecięce,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,17
+Nieznany,Dobry,Biografia,Polski,False,Do 10 lat,Od 5 do 10 lat,11
+Znany i bardzo popularny,Średni,Kobiece,Angielski,False,Od 10 do 50 lat,Od 1 do 5 lat,14
+Znany i bardzo popularny,Brak (Ebook),Kobiece,Polski,True,Do 10 lat,Od 1 do 5 lat,18
+Nieznany,Dobry,Inna,Polski,False,Do 10 lat,Od 1 do 5 lat,14
+Znany i bardzo popularny,Brak (Ebook),Historia,Polski,True,Od 100 do 500 lat,Do 1 roku,16
+Nieznany,Dobry,Powieść,Polski,False,Do 10 lat,Do 1 roku,14
+Znany,Dobry,Biografia,Polski,False,Od 500 lat,Od 1 do 5 lat,12
+Znany,Dobry,Biografia,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany i bardzo popularny,Brak (Ebook),Inna,Angielski,True,Od 100 do 500 lat,Od 5 do 10 lat,11
+Znany,Brak (Ebook),Kobiece,Polski,True,Od 10 do 50 lat,Do 1 roku,15
+Znany i bardzo popularny,Dobry,Dziecięce,Inny,False,Do 10 lat,Do 1 roku,17
+Znany,Dobry,Inna,Polski,False,Od 100 do 500 lat,Od 5 do 10 lat,10
+Znany i bardzo popularny,Zły,Inna,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,15
+Nieznany,Zły,Popularnonaukowe,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,4
+Znany i bardzo popularny,Zły,Powieść,Polski,False,Od 50 do 100 lat,Do 1 roku,14
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Od 100 do 500 lat,Od 5 do 10 lat,13
+Nieznany,Dobry,Inna,Polski,False,Od 500 lat,Od 100 lat,22
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Do 10 lat,Od 5 do 10 lat,13
+Nieznany,Dobry,Dziecięce,Polski,False,Od 500 lat,Od 1 do 5 lat,10
+Znany i bardzo popularny,Brak (Ebook),Inna,Polski,True,Od 500 lat,Do 1 roku,16
+Znany i bardzo popularny,Brak (Ebook),Dziecięce,Polski,True,Do 10 lat,Do 1 roku,19
+Znany i bardzo popularny,Zły,Kobiece,Polski,False,Od 50 do 100 lat,Od 20 do 100 lat,12
+Znany,Dobry,Poezja,Polski,False,Do 10 lat,Od 5 do 10 lat,10
+Znany i bardzo popularny,Dobry,Kobiece,Polski,False,Od 500 lat,Do 1 roku,15
+Znany i bardzo popularny,Dobry,Poezja,Inny,False,Od 100 do 500 lat,Do 1 roku,10
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 100 do 500 lat,Od 100 lat,21
+Nieznany,Dobry,Poezja,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,7
+Znany i bardzo popularny,Brak (Ebook),Historia,Polski,True,Od 10 do 50 lat,Od 5 do 10 lat,15
+Nieznany,Dobry,Poezja,Angielski,False,Od 100 do 500 lat,Od 5 do 10 lat,3
+Znany,Dobry,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,14
+Nieznany,Dobry,Historia,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,9
+Nieznany,Dobry,Inna,Polski,False,Od 100 do 500 lat,Do 1 roku,10
+Znany,Brak (Ebook),Historia,Polski,True,Od 10 do 50 lat,Od 5 do 10 lat,12
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Od 500 lat,Do 1 roku,16
+Nieznany,Dobry,Biografia,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,12
+Nieznany,Dobry,Dziecięce,Polski,False,Od 100 do 500 lat,Od 10 do 20 lat,7
+Znany,Dobry,Biografia,Polski,False,Od 500 lat,Od 100 lat,22
+Znany,Brak (Ebook),Kobiece,Polski,True,Do 10 lat,Od 5 do 10 lat,13
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Do 10 lat,Od 1 do 5 lat,16
+Znany i bardzo popularny,Średni,Kobiece,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,14
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,17
+Znany i bardzo popularny,Brak (Ebook),Historia,Polski,True,Od 100 do 500 lat,Od 1 do 5 lat,14
+Znany,Dobry,Powieść,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,12
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 1 do 5 lat,18
+Znany,Dobry,Kobiece,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany,Dobry,Inna,Polski,False,Od 500 lat,Od 10 do 20 lat,10
+Znany,Zły,Biografia,Polski,False,Od 100 do 500 lat,Od 100 lat,16
+Znany i bardzo popularny,Zły,Kobiece,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,15
+Nieznany,Dobry,Kobiece,Polski,False,Do 10 lat,Od 1 do 5 lat,14
+Znany,Dobry,Powieść,Polski,False,Od 100 do 500 lat,Od 10 do 20 lat,9
+Nieznany,Dobry,Historia,Polski,False,Do 10 lat,Do 1 roku,14
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Od 100 do 500 lat,Od 20 do 100 lat,13
+Znany,Dobry,Historia,Angielski,False,Od 50 do 100 lat,Od 20 do 100 lat,10
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Do 10 lat,Od 5 do 10 lat,14
+Nieznany,Brak (Ebook),Inna,Polski,True,Do 10 lat,Od 5 do 10 lat,11
+Nieznany,Średni,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,11
+Nieznany,Dobry,Sztuka,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,10
+Nieznany,Dobry,Historia,Polski,False,Od 500 lat,Od 20 do 100 lat,8
+Nieznany,Średni,Biografia,Polski,False,Do 10 lat,Od 1 do 5 lat,13
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,15
+Nieznany,Dobry,Historia,Polski,False,Od 500 lat,Od 1 do 5 lat,9
+Znany i bardzo popularny,Dobry,Popularnonaukowe,Polski,False,Do 10 lat,Od 5 do 10 lat,14
+Nieznany,Dobry,Dziecięce,Polski,False,Do 10 lat,Od 5 do 10 lat,11
+Nieznany,Dobry,Dziecięce,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,9
+Znany i bardzo popularny,Dobry,Dziecięce,Angielski,False,Do 10 lat,Od 5 do 10 lat,15
+Znany i bardzo popularny,Dobry,Poezja,Angielski,False,Od 100 do 500 lat,Od 100 lat,22
+Znany,Dobry,Inna,Polski,False,Do 10 lat,Do 1 roku,16
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Od 500 lat,Do 1 roku,12
+Znany i bardzo popularny,Dobry,Kobiece,Angielski,False,Od 500 lat,Od 10 do 20 lat,11
+Znany,Brak (Ebook),Poezja,Polski,True,Od 100 do 500 lat,Do 1 roku,9
+Nieznany,Dobry,Dziecięce,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,11
+Znany,Zły,Popularnonaukowe,Polski,False,Od 100 do 500 lat,Od 20 do 100 lat,4
+Znany i bardzo popularny,Średni,Biografia,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,14
+Nieznany,Brak (Ebook),Historia,Polski,True,Od 100 do 500 lat,Od 5 do 10 lat,7
+Znany i bardzo popularny,Dobry,Sztuka,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany,Zły,Popularnonaukowe,Polski,False,Od 50 do 100 lat,Od 5 do 10 lat,6
+Nieznany,Brak (Ebook),Kobiece,Angielski,True,Do 10 lat,Od 1 do 5 lat,11
+Znany,Dobry,Inna,Polski,False,Od 100 do 500 lat,Do 1 roku,13
+Nieznany,Dobry,Dziecięce,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,10
+Nieznany,Brak (Ebook),Kobiece,Polski,True,Od 50 do 100 lat,Od 5 do 10 lat,9
+Nieznany,Dobry,Powieść,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,10
+Nieznany,Dobry,Historia,Polski,False,Do 10 lat,Do 1 roku,14
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,15
+Znany i bardzo popularny,Dobry,Biografia,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,15
+Nieznany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,12
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Do 10 lat,Od 5 do 10 lat,17
+Znany,Dobry,Historia,Polski,False,Od 500 lat,Od 1 do 5 lat,11
+Znany i bardzo popularny,Dobry,Biografia,Polski,False,Do 10 lat,Od 5 do 10 lat,16
+Nieznany,Brak (Ebook),Historia,Polski,True,Do 10 lat,Do 1 roku,14
+Znany i bardzo popularny,Brak (Ebook),Inna,Polski,True,Od 100 do 500 lat,Do 1 roku,15
+Nieznany,Dobry,Podróże,Polski,False,Od 10 do 50 lat,Do 1 roku,14
+Nieznany,Dobry,Historia,Polski,False,Od 50 do 100 lat,Od 10 do 20 lat,9
+Znany,Brak (Ebook),Dziecięce,Polski,True,Od 10 do 50 lat,Do 1 roku,16
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Od 50 do 100 lat,Do 1 roku,15
+Nieznany,Dobry,Powieść,Polski,False,Do 10 lat,Od 5 do 10 lat,12
+Znany,Dobry,Popularnonaukowe,Polski,False,Od 100 do 500 lat,Od 10 do 20 lat,7
+Nieznany,Brak (Ebook),Popularnonaukowe,Polski,True,Od 10 do 50 lat,Od 5 do 10 lat,7
+Znany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,12
+Znany i bardzo popularny,Brak (Ebook),Dziecięce,Polski,True,Do 10 lat,Od 5 do 10 lat,16
+Znany,Brak (Ebook),Historia,Polski,True,Do 10 lat,Do 1 roku,17
+Znany,Dobry,Podróże,Polski,False,Do 10 lat,Od 1 do 5 lat,16
+Znany i bardzo popularny,Dobry,Kobiece,Polski,False,Od 10 do 50 lat,Do 1 roku,19
+Nieznany,Brak (Ebook),Inna,Angielski,True,Od 10 do 50 lat,Od 1 do 5 lat,10
+Nieznany,Dobry,Powieść,Inny,False,Od 10 do 50 lat,Od 1 do 5 lat,11
+Znany,Średni,Popularnonaukowe,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,10
+Znany i bardzo popularny,Średni,Powieść,Angielski,False,Od 100 do 500 lat,Do 1 roku,13
+Znany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,12
+Znany,Brak (Ebook),Historia,Polski,True,Do 10 lat,Od 5 do 10 lat,14
+Znany,Dobry,Inna,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,13
+Nieznany,Zły,Powieść,Polski,False,Od 100 do 500 lat,Do 1 roku,7
+Nieznany,Dobry,Historia,Polski,False,Do 10 lat,Od 5 do 10 lat,12
+Znany,Średni,Inna,Polski,False,Od 100 do 500 lat,Od 10 do 20 lat,8
+Znany,Brak (Ebook),Inna,Polski,True,Od 100 do 500 lat,Od 1 do 5 lat,11
+Nieznany,Dobry,Historia,Polski,False,Do 10 lat,Od 5 do 10 lat,12
+Znany i bardzo popularny,Dobry,Dziecięce,Polski,False,Do 10 lat,Od 1 do 5 lat,19
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,15
+Znany,Dobry,Dziecięce,Polski,False,Od 500 lat,Od 1 do 5 lat,11
+Nieznany,Dobry,Popularnonaukowe,Polski,False,Od 100 do 500 lat,Od 20 do 100 lat,5
+Znany,Dobry,Kobiece,Polski,False,Od 50 do 100 lat,Od 10 do 20 lat,11
+Znany i bardzo popularny,Zły,Inna,Angielski,False,Od 100 do 500 lat,Od 20 do 100 lat,8
+Znany i bardzo popularny,Średni,Podróże,Polski,False,Do 10 lat,Od 1 do 5 lat,17
+Znany i bardzo popularny,Dobry,Popularnonaukowe,Polski,False,Od 50 do 100 lat,Do 1 roku,15
+Nieznany,Brak (Ebook),Inna,Polski,True,Od 10 do 50 lat,Od 5 do 10 lat,10
+Nieznany,Dobry,Poezja,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,9
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,17
+Znany i bardzo popularny,Średni,Historia,Polski,False,Od 10 do 50 lat,Do 1 roku,17
+Znany i bardzo popularny,Dobry,Podróże,Polski,False,Do 10 lat,Od 1 do 5 lat,19
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Do 10 lat,Do 1 roku,20
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Do 10 lat,Od 1 do 5 lat,18
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Do 10 lat,Od 5 do 10 lat,16
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Od 100 do 500 lat,Do 1 roku,12
+Znany,Zły,Podróże,Polski,False,Do 10 lat,Do 1 roku,13
+Znany i bardzo popularny,Średni,Inna,Polski,False,Od 10 do 50 lat,Do 1 roku,17
+Znany,Średni,Kobiece,Angielski,False,Do 10 lat,Od 1 do 5 lat,12
+Znany,Dobry,Dziecięce,Polski,False,Od 100 do 500 lat,Od 5 do 10 lat,9
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,14
+Znany i bardzo popularny,Brak (Ebook),Historia,Polski,True,Do 10 lat,Do 1 roku,19
+Nieznany,Brak (Ebook),Historia,Polski,True,Od 500 lat,Od 1 do 5 lat,10
+Nieznany,Dobry,Historia,Polski,False,Od 500 lat,Od 1 do 5 lat,10
+Znany i bardzo popularny,Zły,Inna,Polski,False,Od 50 do 100 lat,Od 10 do 20 lat,11
+Znany i bardzo popularny,Dobry,Dziecięce,Polski,False,Do 10 lat,Od 5 do 10 lat,17
+Znany,Średni,Inna,Polski,False,Od 100 do 500 lat,Od 20 do 100 lat,8
+Nieznany,Dobry,Kobiece,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,13
+Znany i bardzo popularny,Brak (Ebook),Inna,Polski,True,Od 10 do 50 lat,Do 1 roku,18
+Nieznany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,10
+Nieznany,Dobry,Inna,Inny,False,Do 10 lat,Do 1 roku,13
+Nieznany,Zły,Inna,Angielski,False,Od 100 do 500 lat,Od 100 lat,14
+Nieznany,Dobry,Biografia,Polski,False,Do 10 lat,Do 1 roku,14
+Znany i bardzo popularny,Dobry,Podróże,Polski,False,Do 10 lat,Od 5 do 10 lat,16
+Znany i bardzo popularny,Brak (Ebook),Inna,Polski,True,Od 10 do 50 lat,Od 1 do 5 lat,18
+Znany,Brak (Ebook),Powieść,Polski,True,Od 100 do 500 lat,Od 5 do 10 lat,10
+Znany i bardzo popularny,Zły,Dziecięce,Polski,False,Do 10 lat,Od 1 do 5 lat,15
+Nieznany,Dobry,Historia,Polski,False,Do 10 lat,Do 1 roku,15
+Nieznany,Dobry,Kobiece,Angielski,False,Od 10 do 50 lat,Od 5 do 10 lat,9
+Znany i bardzo popularny,Brak (Ebook),Inna,Inny,True,Od 50 do 100 lat,Od 1 do 5 lat,15
+Nieznany,Brak (Ebook),Popularnonaukowe,Polski,True,Od 500 lat,Od 1 do 5 lat,6
+Znany,Brak (Ebook),Inna,Polski,True,Do 10 lat,Od 5 do 10 lat,14
+Znany i bardzo popularny,Brak (Ebook),Inna,Polski,True,Od 10 do 50 lat,Od 5 do 10 lat,15
+Nieznany,Dobry,Dziecięce,Polski,False,Od 100 do 500 lat,Od 10 do 20 lat,8
+Znany,Brak (Ebook),Powieść,Polski,True,Od 100 do 500 lat,Od 5 do 10 lat,10
+Znany i bardzo popularny,Dobry,Dziecięce,Polski,False,Od 50 do 100 lat,Do 1 roku,17
+Nieznany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,11
+Znany,Dobry,Popularnonaukowe,Angielski,False,Od 500 lat,Od 1 do 5 lat,6
+Znany i bardzo popularny,Brak (Ebook),Inna,Polski,True,Od 10 do 50 lat,Od 1 do 5 lat,18
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Do 10 lat,Od 5 do 10 lat,16
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 1 do 5 lat,18
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,12
+Nieznany,Dobry,Historia,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,11
+Znany,Brak (Ebook),Poezja,Polski,True,Od 500 lat,Od 5 do 10 lat,7
+Znany,Zły,Inna,Polski,False,Od 500 lat,Do 1 roku,9
+Znany i bardzo popularny,Średni,Biografia,Angielski,False,Od 10 do 50 lat,Od 1 do 5 lat,14
+Znany i bardzo popularny,Zły,Popularnonaukowe,Polski,False,Do 10 lat,Od 1 do 5 lat,13
+Nieznany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,11
+Nieznany,Dobry,Historia,Polski,False,Od 500 lat,Do 1 roku,11
+Znany,Dobry,Historia,Polski,False,Do 10 lat,Od 5 do 10 lat,13
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,17
+Znany i bardzo popularny,Zły,Powieść,Angielski,False,Do 10 lat,Do 1 roku,15
+Nieznany,Dobry,Biografia,Polski,False,Do 10 lat,Do 1 roku,14
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 100 do 500 lat,Od 100 lat,21
+Znany,Dobry,Inna,Polski,False,Do 10 lat,Do 1 roku,16
+Znany i bardzo popularny,Średni,Dziecięce,Polski,False,Do 10 lat,Od 1 do 5 lat,18
+Znany i bardzo popularny,Brak (Ebook),Powieść,Polski,True,Do 10 lat,Od 1 do 5 lat,19
+Znany,Dobry,Poezja,Inny,False,Od 100 do 500 lat,Od 10 do 20 lat,4
+Znany,Dobry,Powieść,Polski,False,Od 500 lat,Do 1 roku,13
+Znany i bardzo popularny,Dobry,Kobiece,Polski,False,Od 50 do 100 lat,Od 10 do 20 lat,15
+Nieznany,Dobry,Powieść,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,9
+Znany,Dobry,Podróże,Polski,False,Od 500 lat,Od 1 do 5 lat,12
+Znany i bardzo popularny,Brak (Ebook),Dziecięce,Polski,True,Od 100 do 500 lat,Do 1 roku,16
+Znany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany,Brak (Ebook),Poezja,Polski,True,Od 500 lat,Do 1 roku,9
+Znany i bardzo popularny,Dobry,Inna,Angielski,False,Od 500 lat,Od 1 do 5 lat,13
+Znany i bardzo popularny,Brak (Ebook),Sztuka,Polski,True,Do 10 lat,Do 1 roku,17
+Znany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,12
+Nieznany,Średni,Poezja,Polski,False,Od 500 lat,Do 1 roku,7
+Znany,Zły,Poezja,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,7
+Znany,Brak (Ebook),Poezja,Angielski,True,Do 10 lat,Od 1 do 5 lat,11
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Do 1 roku,20
+Znany i bardzo popularny,Dobry,Biografia,Polski,False,Od 500 lat,Od 100 lat,21
+Znany i bardzo popularny,Dobry,Inna,Angielski,False,Do 10 lat,Od 5 do 10 lat,15
+Nieznany,Dobry,Inna,Polski,False,Od 500 lat,Od 20 do 100 lat,7
+Nieznany,Dobry,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,11
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Do 10 lat,Od 5 do 10 lat,17
+Nieznany,Zły,Powieść,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,9
+Znany i bardzo popularny,Brak (Ebook),Popularnonaukowe,Polski,True,Od 50 do 100 lat,Do 1 roku,14
+Nieznany,Dobry,Powieść,Angielski,False,Od 500 lat,Od 100 lat,20
+Znany,Dobry,Poezja,Angielski,False,Od 10 do 50 lat,Od 5 do 10 lat,8
+Znany i bardzo popularny,Dobry,Sztuka,Polski,False,Do 10 lat,Od 5 do 10 lat,13
+Znany i bardzo popularny,Brak (Ebook),Biografia,Polski,True,Od 100 do 500 lat,Od 5 do 10 lat,13
+Nieznany,Dobry,Popularnonaukowe,Polski,False,Od 100 do 500 lat,Do 1 roku,7
+Znany,Dobry,Powieść,Polski,False,Od 100 do 500 lat,Od 10 do 20 lat,9
+Nieznany,Zły,Sztuka,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,4
+Znany,Dobry,Historia,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,12
+Znany i bardzo popularny,Brak (Ebook),Historia,Inny,True,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany i bardzo popularny,Brak (Ebook),Powieść,Polski,True,Do 10 lat,Do 1 roku,20
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,15
+Nieznany,Zły,Inna,Polski,False,Od 500 lat,Od 1 do 5 lat,7
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,17
+Nieznany,Dobry,Kobiece,Polski,False,Od 10 do 50 lat,Do 1 roku,14
+Nieznany,Brak (Ebook),Podróże,Polski,True,Od 500 lat,Od 1 do 5 lat,9
+Znany i bardzo popularny,Brak (Ebook),Dziecięce,Polski,True,Od 50 do 100 lat,Od 5 do 10 lat,15
+Nieznany,Dobry,Historia,Polski,False,Do 10 lat,Od 5 do 10 lat,12
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 100 do 500 lat,Od 100 lat,21
+Znany i bardzo popularny,Zły,Biografia,Polski,False,Do 10 lat,Od 5 do 10 lat,13
+Nieznany,Dobry,Powieść,Polski,False,Do 10 lat,Od 5 do 10 lat,11
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Od 100 do 500 lat,Od 100 lat,21
+Znany,Średni,Inna,Polski,False,Od 100 do 500 lat,Od 100 lat,18
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Od 500 lat,Do 1 roku,15
+Znany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,12
+Znany,Dobry,Poezja,Polski,False,Do 10 lat,Od 5 do 10 lat,10
+Nieznany,Dobry,Inna,Polski,False,Do 10 lat,Od 1 do 5 lat,14
+Nieznany,Dobry,Inna,Polski,False,Do 10 lat,Od 1 do 5 lat,14
+Nieznany,Dobry,Powieść,Polski,False,Od 500 lat,Od 5 do 10 lat,8
+Znany,Dobry,Inna,Angielski,False,Od 10 do 50 lat,Od 1 do 5 lat,12
+Nieznany,Dobry,Historia,Polski,False,Od 10 do 50 lat,Do 1 roku,14
+Znany,Brak (Ebook),Kobiece,Polski,True,Do 10 lat,Do 1 roku,17
+Znany,Dobry,Kobiece,Polski,False,Do 10 lat,Do 1 roku,16
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 500 lat,Od 20 do 100 lat,13
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,17
+Nieznany,Dobry,Sztuka,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,6
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,17
+Nieznany,Dobry,Inna,Polski,False,Do 10 lat,Do 1 roku,14
+Znany i bardzo popularny,Zły,Historia,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany i bardzo popularny,Dobry,Biografia,Polski,False,Do 10 lat,Do 1 roku,20
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,15
+Znany i bardzo popularny,Brak (Ebook),Dziecięce,Polski,True,Od 10 do 50 lat,Do 1 roku,18
+Nieznany,Dobry,Powieść,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,9
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Od 500 lat,Do 1 roku,16
+Nieznany,Dobry,Powieść,Polski,False,Od 10 do 50 lat,Do 1 roku,14
+Znany,Brak (Ebook),Podróże,Polski,True,Do 10 lat,Od 5 do 10 lat,13
+Znany i bardzo popularny,Dobry,Kobiece,Polski,False,Do 10 lat,Od 5 do 10 lat,16
+Znany,Dobry,Dziecięce,Polski,False,Od 500 lat,Od 100 lat,22
+Znany,Dobry,Powieść,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,15
+Znany i bardzo popularny,Zły,Kobiece,Polski,False,Od 500 lat,Od 10 do 20 lat,10
+Znany,Zły,Inna,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,11
+Znany i bardzo popularny,Zły,Podróże,Polski,False,Do 10 lat,Do 1 roku,16
+Znany i bardzo popularny,Dobry,Dziecięce,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,15
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,15
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Do 10 lat,Od 5 do 10 lat,13
+Znany,Dobry,Powieść,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,12
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 10 do 50 lat,Do 1 roku,18
+Znany,Dobry,Inna,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,12
+Nieznany,Dobry,Powieść,Inny,False,Od 100 do 500 lat,Do 1 roku,8
+Nieznany,Dobry,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,12
+Nieznany,Dobry,Poezja,Polski,False,Do 10 lat,Do 1 roku,12
+Znany,Dobry,Kobiece,Polski,False,Do 10 lat,Od 1 do 5 lat,16
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,17
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,14
+Znany i bardzo popularny,Dobry,Biografia,Polski,False,Od 100 do 500 lat,Od 5 do 10 lat,13
+Znany i bardzo popularny,Brak (Ebook),Dziecięce,Polski,True,Od 50 do 100 lat,Do 1 roku,18
+Znany,Dobry,Inna,Polski,False,Od 500 lat,Od 1 do 5 lat,12
+Znany,Dobry,Inna,Polski,False,Od 500 lat,Od 10 do 20 lat,9
+Znany,Dobry,Powieść,Polski,False,Do 10 lat,Do 1 roku,16
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Od 500 lat,Do 1 roku,15
+Znany,Dobry,Biografia,Angielski,False,Do 10 lat,Od 5 do 10 lat,11
+Znany,Zły,Dziecięce,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,11
+Znany i bardzo popularny,Brak (Ebook),Biografia,Angielski,True,Od 50 do 100 lat,Do 1 roku,15
+Znany,Dobry,Powieść,Polski,False,Od 100 do 500 lat,Od 5 do 10 lat,9
+Nieznany,Dobry,Inna,Polski,False,Od 100 do 500 lat,Do 1 roku,10
+Znany,Zły,Powieść,Polski,False,Od 500 lat,Od 1 do 5 lat,8
+Znany,Brak (Ebook),Poezja,Polski,True,Od 500 lat,Od 1 do 5 lat,8
+Znany i bardzo popularny,Dobry,Popularnonaukowe,Polski,False,Od 500 lat,Od 1 do 5 lat,11
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 1 do 5 lat,18
+Nieznany,Dobry,Dziecięce,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,12
+Znany,Dobry,Powieść,Polski,False,Od 100 do 500 lat,Do 1 roku,12
+Znany,Dobry,Historia,Polski,False,Do 10 lat,Do 1 roku,17
+Znany i bardzo popularny,Dobry,Powieść,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,18
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,16
+Nieznany,Średni,Inna,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,9
+Znany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,14
+Znany,Brak (Ebook),Dziecięce,Angielski,True,Do 10 lat,Od 5 do 10 lat,11
+Nieznany,Dobry,Inna,Polski,False,Od 100 do 500 lat,Do 1 roku,10
+Znany,Brak (Ebook),Inna,Inny,True,Od 10 do 50 lat,Od 1 do 5 lat,13
+Znany i bardzo popularny,Zły,Historia,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany i bardzo popularny,Dobry,Historia,Angielski,False,Od 500 lat,Od 10 do 20 lat,11
+Znany,Dobry,Powieść,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,13
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Od 10 do 50 lat,Do 1 roku,18
+Znany,Dobry,Powieść,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany i bardzo popularny,Dobry,Popularnonaukowe,Polski,False,Od 50 do 100 lat,Od 100 lat,21
+Znany,Dobry,Kobiece,Polski,False,Do 10 lat,Od 5 do 10 lat,14
+Znany,Brak (Ebook),Dziecięce,Polski,True,Od 10 do 50 lat,Od 1 do 5 lat,15
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 100 do 500 lat,Od 100 lat,21
+Nieznany,Dobry,Poezja,Polski,False,Od 500 lat,Od 100 lat,24
+Znany,Zły,Inna,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,8
+Nieznany,Brak (Ebook),Biografia,Polski,True,Od 500 lat,Od 1 do 5 lat,10
+Nieznany,Dobry,Powieść,Polski,False,Od 500 lat,Od 20 do 100 lat,7
+Nieznany,Dobry,Historia,Polski,False,Do 10 lat,Od 5 do 10 lat,11
+Nieznany,Dobry,Historia,Angielski,False,Od 50 do 100 lat,Do 1 roku,11
+Nieznany,Brak (Ebook),Dziecięce,Polski,True,Od 50 do 100 lat,Do 1 roku,13
+Nieznany,Dobry,Inna,Polski,False,Do 10 lat,Do 1 roku,15
+Znany i bardzo popularny,Dobry,Poezja,Angielski,False,Od 100 do 500 lat,Od 1 do 5 lat,10
+Nieznany,Dobry,Historia,Polski,False,Od 50 do 100 lat,Od 1 do 5 lat,11
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,18
+Znany,Zły,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,11
+Znany,Dobry,Popularnonaukowe,Polski,False,Do 10 lat,Od 1 do 5 lat,13
+Nieznany,Dobry,Inna,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,9
+Znany,Brak (Ebook),Powieść,Polski,True,Od 100 do 500 lat,Od 1 do 5 lat,11
+Nieznany,Dobry,Kobiece,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,11
+Nieznany,Dobry,Inna,Polski,False,Od 100 do 500 lat,Do 1 roku,11
+Znany,Dobry,Biografia,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany,Dobry,Powieść,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,14
+Znany i bardzo popularny,Dobry,Poezja,Polski,False,Od 100 do 500 lat,Od 5 do 10 lat,10
+Nieznany,Dobry,Kobiece,Polski,False,Od 100 do 500 lat,Do 1 roku,11
+Nieznany,Dobry,Historia,Polski,False,Od 100 do 500 lat,Do 1 roku,10
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,16
+Znany,Brak (Ebook),Inna,Angielski,True,Od 100 do 500 lat,Od 5 do 10 lat,7
+Znany,Średni,Historia,Polski,False,Od 500 lat,Od 5 do 10 lat,8
+Znany i bardzo popularny,Brak (Ebook),Dziecięce,Polski,True,Od 500 lat,Do 1 roku,16
+Znany,Brak (Ebook),Poezja,Polski,True,Do 10 lat,Od 5 do 10 lat,10
+Nieznany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,10
+Znany,Brak (Ebook),Kobiece,Polski,True,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany,Dobry,Poezja,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,9
+Nieznany,Średni,Inna,Polski,False,Od 500 lat,Do 1 roku,9
+Nieznany,Dobry,Popularnonaukowe,Polski,False,Od 10 do 50 lat,Do 1 roku,11
+Nieznany,Brak (Ebook),Sztuka,Polski,True,Od 10 do 50 lat,Do 1 roku,11
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 1 do 5 lat,19
+Znany,Zły,Powieść,Polski,False,Do 10 lat,Od 5 do 10 lat,10
+Znany,Dobry,Dziecięce,Polski,False,Od 500 lat,Od 20 do 100 lat,10
+Znany i bardzo popularny,Zły,Kobiece,Polski,False,Od 50 do 100 lat,Od 20 do 100 lat,12
+Znany i bardzo popularny,Średni,Powieść,Polski,False,Od 500 lat,Od 100 lat,18
+Znany,Dobry,Inna,Polski,False,Od 50 do 100 lat,Od 5 do 10 lat,12
+Nieznany,Dobry,Poezja,Polski,False,Od 50 do 100 lat,Od 100 lat,24
+Znany i bardzo popularny,Średni,Powieść,Polski,False,Od 500 lat,Do 1 roku,14
+Nieznany,Dobry,Dziecięce,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,10
+Znany i bardzo popularny,Zły,Popularnonaukowe,Polski,False,Od 10 do 50 lat,Do 1 roku,13
+Znany,Dobry,Inna,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,15
+Znany,Średni,Inna,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,10
+Znany i bardzo popularny,Średni,Powieść,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,16
+Znany i bardzo popularny,Średni,Historia,Polski,False,Do 10 lat,Od 1 do 5 lat,18
+Znany i bardzo popularny,Dobry,Biografia,Angielski,False,Do 10 lat,Do 1 roku,17
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 1 do 5 lat,19
+Znany i bardzo popularny,Dobry,Dziecięce,Polski,False,Od 10 do 50 lat,Do 1 roku,19
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 1 do 5 lat,19
+Znany i bardzo popularny,Dobry,Kobiece,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,15
+Nieznany,Dobry,Sztuka,Polski,False,Od 100 do 500 lat,Od 1 do 5 lat,7
+Znany i bardzo popularny,Dobry,Kobiece,Polski,False,Do 10 lat,Do 1 roku,20
+Nieznany,Brak (Ebook),Inna,Polski,True,Od 10 do 50 lat,Od 1 do 5 lat,12
+Znany i bardzo popularny,Zły,Dziecięce,Polski,False,Do 10 lat,Od 1 do 5 lat,16
+Nieznany,Dobry,Dziecięce,Polski,False,Od 100 do 500 lat,Do 1 roku,11
+Znany i bardzo popularny,Brak (Ebook),Dziecięce,Polski,True,Od 10 do 50 lat,Od 1 do 5 lat,18
+Znany i bardzo popularny,Średni,Inna,Polski,False,Od 50 do 100 lat,Od 20 do 100 lat,14
+Znany,Dobry,Kobiece,Polski,False,Do 10 lat,Do 1 roku,17
+Nieznany,Dobry,Kobiece,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,11
+Nieznany,Brak (Ebook),Historia,Polski,True,Od 500 lat,Od 1 do 5 lat,10
+Nieznany,Dobry,Poezja,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,7
+Nieznany,Zły,Poezja,Polski,False,Od 100 do 500 lat,Od 100 lat,19
+Nieznany,Dobry,Poezja,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,10
+Nieznany,Dobry,Popularnonaukowe,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,7
+Nieznany,Brak (Ebook),Dziecięce,Polski,True,Do 10 lat,Do 1 roku,15
+Znany i bardzo popularny,Dobry,Historia,Polski,False,Od 50 do 100 lat,Od 10 do 20 lat,14
+Znany i bardzo popularny,Zły,Sztuka,Polski,False,Do 10 lat,Od 5 do 10 lat,11
+Znany i bardzo popularny,Dobry,Inna,Polski,False,Do 10 lat,Od 5 do 10 lat,17
+Znany,Brak (Ebook),Biografia,Polski,True,Do 10 lat,Od 1 do 5 lat,15
+Znany i bardzo popularny,Zły,Dziecięce,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,13
+Znany,Zły,Powieść,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,11
+Znany,Dobry,Powieść,Polski,False,Od 10 do 50 lat,Od 5 do 10 lat,13
+Nieznany,Zły,Historia,Polski,False,Od 10 do 50 lat,Od 1 do 5 lat,10
+Znany,Dobry,Popularnonaukowe,Polski,False,Od 10 do 50 lat,Do 1 roku,13
